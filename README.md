@@ -6,3 +6,5 @@ Features:
 -   Lists all 14ers in Colorado and provides information about each summit hike.
 -   Users can see which 14ers they have completed and which they have not.
 -   Once the user reaches the summit of a 14er that they have not yet completed, gps confirms their location, rewards them and moves the 14er over to the completed list.
+
+Preliminary Screen Wireframes:
