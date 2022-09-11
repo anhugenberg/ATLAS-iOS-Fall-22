@@ -16,7 +16,7 @@ Screens:
 - List Screen: Has a list of all of the 14ers in Colorado that can be organized by three categories.
 - Map Screen: Shows map of Colorado with pinpoint locations of each 14ers in Colorado.
 - 14er Description Screens: Includes an image, information about the summit hike, a description as well as a link to fill out the completion log.
-- Completion Log Screens: Allows users to input images, date and time as well as a journal entry for the completion of the 14ers. Also allows user to change the status of the star to completed.
+- Completion Log Screens: Allows users to input images, date and time as well as a journal entry for the completion of the 14er. Also allows user to change the status of the star to completed.
 
 Preliminary Screen Wireframes:
 ![Scannable Document on Sep 11, 2022 at 11_19_09 AM](https://user-images.githubusercontent.com/75700280/189541024-78d443d0-9599-49e5-a8f1-1a16ec415df9.png)
