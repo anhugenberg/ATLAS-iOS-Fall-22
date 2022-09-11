@@ -9,6 +9,7 @@ Features:
 -   A star icon indicates if they have comppleted the 14er (filled in), if they have not completed the 14er (outline), or if the 14er is on their to do/favorites list (partly shaded in).
 -   Each 14er has a dedicated page that includes details about the summit hike such as the length and elevation gain.
 -   Once the user reaches the summit of a 14er that they have not yet completed, they can fill out the completion log and change the status star to completed.
+-   Has an interactive map page that shows pinpoint locations of each 14er in Colorado.
 
 Preliminary Screen Wireframes:
 ![Scannable Document on Sep 11, 2022 at 11_19_09 AM](https://user-images.githubusercontent.com/75700280/189541024-78d443d0-9599-49e5-a8f1-1a16ec415df9.png)
