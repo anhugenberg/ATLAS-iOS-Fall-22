@@ -11,6 +11,12 @@ Features:
 -   Once the user reaches the summit of a 14er that they have not yet completed, they can fill out the completion log and change the status star to completed.
 -   Has an interactive map page that shows pinpoint locations of each 14er in Colorado.
 
+API:
+- Need to access Apple Photos/Camera
+- Possibly acess GPS
+- Storage
+- Interface to Weather App
+
 Screens:
 - Home Screen: Shows name and logo of app with links to the map and list page.
 - List Screen: Has a list of all of the 14ers in Colorado that can be organized by three categories.
