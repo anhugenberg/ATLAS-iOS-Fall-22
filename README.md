@@ -8,3 +8,6 @@ Features:
 -   Once the user reaches the summit of a 14er that they have not yet completed, they can fill out the completion log and change the status 
 
 Preliminary Screen Wireframes:
+
+![Scannable Document on Sep 11, 2022 at 11_19_09 AM](https://user-images.githubusercontent.com/75700280/189541024-78d443d0-9599-49e5-a8f1-1a16ec415df9.png)
+
