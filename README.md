@@ -5,9 +5,10 @@ Touch the Sky
 App idea: An app that helps users track which 14ers in Colorado they have hiked and rewards them for completing them. Gives users information about each hike inlcuding where the trailhead is located, the distance in miles and the elevation gain of the hike. Once the user makes it to the end of the hike, they can log completion by adding photos, adding a date and time of completion and a journal entry.
 
 Features: 
--   Lists all 14ers in Colorado and provides information about each summit hike.
--   Has a lists page that shows users can all 14ers, which they have completed and which are on their to do/favorites list.
--   Once the user reaches the summit of a 14er that they have not yet completed, they can fill out the completion log and change the status 
+-   Has a lists page that includes 3 tabs. One tab shows all 14ers in Colorado, one tab shows which 14ers they have completed, and one tab shows which 14ers are on their to do/favorites list.
+-   A star icon indicates if they have comppleted the 14er (filled in), if they have not completed the 14er (outline), or if the 14er is on their to do/favorites list (partly shaded in).
+-   Each 14er has a dedicated page that includes details about the summit hike such as the length and elevation gain.
+-   Once the user reaches the summit of a 14er that they have not yet completed, they can fill out the completion log and change the status star to completed.
 
 Preliminary Screen Wireframes:
 ![Scannable Document on Sep 11, 2022 at 11_19_09 AM](https://user-images.githubusercontent.com/75700280/189541024-78d443d0-9599-49e5-a8f1-1a16ec415df9.png)
