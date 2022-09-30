@@ -2,7 +2,7 @@ name: Alexa Hugenberg
 repo_names:
   - Touch-The-Sky
 10-ux-ui-criticism:
-  - http://
-  - http://
+  - https://github.com/anhugenberg/ATLAS-iOS-Fall-22/blob/main/mobileappbaddesign.mp4
+  - https://github.com/anhugenberg/ATLAS-iOS-Fall-22/blob/main/mobileappgooddesign.mp4
 11-models-from-data:
   - https://github.com/anhugenberg/Touch-The-Sky/blob/main/TouchSky/TouchSky/TouchSky/Models/ModelData.swift#L10
